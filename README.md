@@ -11,6 +11,8 @@ Feature selection is the process of identifying and selecting a subset of featur
 Data sets usually contain a large number of features. We can use multiple algorithms to quickly disregard irrelevant features and identify those important features in our data.
 <br/>
 Feature selection algorithms can be divided into 1 of 3 categories: <br/>
-> filter methods <br/>
-> wrapper methods <br/>
-> embedded methods <br/>
+> Filter methods <br/>
+
+> Wrapper methods <br/>
+
+> Embedded methods <br/>
