@@ -31,3 +31,13 @@ Feature selection is key to creating easier to interpret and faster models, as w
 * Pearson’s correlation for continuous variables in regression
 * Information gain
 * Mutual information
+
+## Wrapper Methods:
+* Forward selection of features
+* Backward selection of variables
+* Exhaustive search
+## Embedded Methods:
+* Lasso regularization
+* Linear models coefficients
+* Feature importance derived from decision trees and random forests
+
