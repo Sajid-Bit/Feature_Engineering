@@ -48,5 +48,5 @@ Feature selection is key to creating easier to interpret and faster models, as w
 ### Filter Methods: Advantages:
 * They are computationally inexpensive, you can process thousands of features in a matter of seconds.
 * Filter methods are very good for eliminating irrelevant, redundant, constant, duplicated, and correlated features.
-
-
+### Filter Methode Techniques:
+1 -  Chi-square test for categorical variables 
