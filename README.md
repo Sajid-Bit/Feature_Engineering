@@ -12,7 +12,7 @@ Data sets usually contain a large number of features. We can use multiple algori
 <br/>
 Feature selection algorithms can be divided into 1 of 3 categories: <br/>
 > Filter methods <br/>
-
+Filter methods comprise basic data preprocessing steps to remove constant and duplicated features and statistical tests to assert feature importance.
 > Wrapper methods <br/>
 
 > Embedded methods <br/>
