@@ -61,3 +61,6 @@ is used to test whether the frequency distribution of a categorical variable is 
 
 
 
+
+
+
