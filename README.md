@@ -51,7 +51,6 @@ Feature selection is key to creating easier to interpret and faster models, as w
 ### Filter Methode Techniques:
 ###### 1 -  Chi-square test for categorical variables <br/>
 What is categorical variables: 
-
 Categorical variables contain a finite number of categories or distinct groups. Categorical data might not have a logical order. For example, categorical predictors include gender, material type, and payment method.
 
 
