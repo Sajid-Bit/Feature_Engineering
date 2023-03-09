@@ -51,6 +51,13 @@ Feature selection is key to creating easier to interpret and faster models, as w
 ### Filter Methode Techniques:
 #### Chi-square test for categorical variables:
 `What is categorical variables: ` <br/>
-Categorical variables contain a finite number of categories or distinct groups. Categorical data might not have a logical order. For example, categorical predictors include gender, material type, and payment method.
+Categorical variables contain a finite number of categories or distinct groups. Categorical data might not have a logical order. For example, categorical predictors include gender, material type, and payment method. <br/>
+`What is The Chi-square test :` <br/>
+chi-square test is a statistical test for categorical data. It is used to determine whether your data are significantly different from what you expected. There are two types of Pearson’s chi-square tests:
+* The chi-square goodness of fit test: <br/>
+is used to test whether the frequency distribution of a categorical variable is different from your expectations.
+* The chi-square test of independence: <br/>
+ is used to test whether two categorical variables are related to each other.
+
 
 
