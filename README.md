@@ -26,3 +26,5 @@ Feature selection algorithms can be divided into 1 of 3 categories: <br/>
 Feature selection is key to creating easier to interpret and faster models, as well as to avoiding overfitting. When creating machine learning models to use in the real-world, feature selection is an integral part of the machine learning pipeline.
 
 ## Filter Methods:
+* Chi-square test for categorical variables
+* sajid
