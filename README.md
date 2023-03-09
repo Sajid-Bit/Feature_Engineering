@@ -42,6 +42,11 @@ Feature selection is key to creating easier to interpret and faster models, as w
 * Feature importance derived from decision trees and random forests
 
 # Filter Methods
-The Filter Methods comprise basic data preprocessing steps to remove constant and duplicated features and statistical tests to assert feature importance.
+* Filter methods comprise basic data preprocessing steps to remove constant and duplicated features and statistical tests to assert feature importance.
+* These methods rely only on the characteristics of these variables, so features are filtered out of the data before learning begins. 
+* Univariate filter methods evaluate each feature individually. 
+### Filter Methods: Advantages:
+* They are computationally inexpensive, you can process thousands of features in a matter of seconds.
+* Filter methods are very good for eliminating irrelevant, redundant, constant, duplicated, and correlated features.
 
 
