@@ -12,7 +12,15 @@ Data sets usually contain a large number of features. We can use multiple algori
 <br/>
 Feature selection algorithms can be divided into 1 of 3 categories: <br/>
 > Filter methods <br/>
-Filter methods comprise basic data preprocessing steps to remove constant and duplicated features and statistical tests to assert feature importance.
+
 > Wrapper methods <br/>
 
 > Embedded methods <br/>
+
+
+### Filter methods comprise basic data preprocessing steps to remove constant and duplicated features and statistical tests to assert feature importance.
+### Wrapper methods wrap the search around the estimator. They use backward and forward selection to examine and identify the best set of features.
+### Embedded methods combine feature selection with the fitting of the classifier or regression model.
+
+# Why do we select features?
+
