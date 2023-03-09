@@ -27,4 +27,7 @@ Feature selection is key to creating easier to interpret and faster models, as w
 
 ## Filter Methods:
 * Chi-square test for categorical variables
-* sajid
+* ANOVA for continuous variables and binary or multiclass target variables
+* Pearson’s correlation for continuous variables in regression
+* Information gain
+* Mutual information
