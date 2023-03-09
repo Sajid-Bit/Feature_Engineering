@@ -41,3 +41,7 @@ Feature selection is key to creating easier to interpret and faster models, as w
 * Linear models coefficients
 * Feature importance derived from decision trees and random forests
 
+# Filter Methods
+The Filter Methods comprise basic data preprocessing steps to remove constant and duplicated features and statistical tests to assert feature importance.
+
+
