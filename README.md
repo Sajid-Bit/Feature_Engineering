@@ -11,6 +11,8 @@ Feature selection is the process of identifying and selecting a subset of featur
 Data sets usually contain a large number of features. We can use multiple algorithms to quickly disregard irrelevant features and identify those important features in our data.
 <br/>
 Feature selection algorithms can be divided into 1 of 3 categories: <br/>
+> Basic Feature Selection Methods <br/>
+
 > Filter methods <br/>
 
 > Wrapper methods <br/>
@@ -24,6 +26,11 @@ Feature selection algorithms can be divided into 1 of 3 categories: <br/>
 
 # Why do we select features?
 Feature selection is key to creating easier to interpret and faster models, as well as to avoiding overfitting. When creating machine learning models to use in the real-world, feature selection is an integral part of the machine learning pipeline.
+
+## Basic Feature Selection Methods
+* Constant features
+* Quasi-constant features
+* Duplicated features
 
 ## Filter Methods:
 * Chi-square test for categorical variables
