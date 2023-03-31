@@ -66,7 +66,7 @@ chi-square test is a statistical test for categorical data. It is used to determ
 * The chi-square goodness of fit test: <br/>
 is used to test whether the frequency distribution of a categorical variable is different from your expectations.
 * The chi-square test of independence: <br/>
- is used to test whether two categorical variables are related to each other.
+ 
 
 
 
