@@ -65,7 +65,7 @@ Categorical variables contain a finite number of categories or distinct groups. 
 chi-square test is a statistical test for categorical data. It is used to determine whether your data are significantly different from what you expected. There are two types of Pearson’s chi-square tests:
 * The chi-square goodness of fit test: <br/>
 is used to test whether the frequency distribution of a categorical variable is different from your expectations.
-* The chi-square test of independence: <br/>
+
  
 
 
