@@ -59,9 +59,9 @@ Feature selection is key to creating easier to interpret and faster models, as w
 * Filter methods are very good for eliminating irrelevant, redundant, constant, duplicated, and correlated features.
 ### Filter Methode Techniques:
 #### Chi-square test for categorical variables:
-`What is categorical variables: ` <br/>
+What is categorical variables:  <br/>
 Categorical variables contain a finite number of categories or distinct groups. Categorical data might not have a logical order. For example, categorical predictors include gender, material type, and payment method. <br/>
-`What is The Chi-square test :` <br/>
+What is The Chi-square test : <br/>
 chi-square test is a statistical test for categorical data. It is used to determine whether your data are significantly different from what you expected. There are 
 
  
